@@ -56,7 +56,7 @@ docker pull ghcr.io/slackapi/definition-app:latest
 ```
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/slackapi/definition-app)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pelack/definition-app)
 
 The following steps will use a combination of your server's command line and a web browser:
 
