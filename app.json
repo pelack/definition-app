@@ -21,6 +21,6 @@
     },
     "image": "heroku/nodejs",
     "addons": [
-      "cleardb"
+      "jawsdb:kitefin"
     ]
   }
